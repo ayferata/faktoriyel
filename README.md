@@ -12,6 +12,7 @@ public class Main {
         System.out.println("C(n,r) için r sayısını giriniz: ");
         r=reader.nextInt();
         differance=n-r;
+        
         for(int i=1;i<=n;i++){
             nf *= i;
         }
