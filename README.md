@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         int n,r,result,nf=1,rf=1,differancef=1,differance;
+        
         System.out.println("C(n,r) için n sayısını giriniz: ");
         n=reader.nextInt();
         System.out.println("C(n,r) için r sayısını giriniz: ");
