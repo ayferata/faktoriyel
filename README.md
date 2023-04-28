@@ -1,7 +1,7 @@
 # faktoriyel
 import java.util.Scanner;
 public class Main {
-    //Kombinasyon hesapla C(n,r) = n! / (r! * (n-r)!)
+   
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         int n,r,result,nf=1,rf=1,differancef=1,differance;
